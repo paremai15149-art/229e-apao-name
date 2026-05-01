@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: e26e19e245dfedf4b9b58068a6975b2d
+guid: 30fcec261810020459963c6d3fd48fb1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2452595284106773687
-    second: tiny ghost animation_0
+      213: -5958209358325288144
+    second: tiny_ghost_animation-Sheet-Sheet_0
   - first:
-      213: -8595545299176401898
-    second: tiny ghost animation_1
+      213: 2304597824980301402
+    second: tiny_ghost_animation-Sheet-Sheet_1
   - first:
-      213: -1951181577641535924
-    second: tiny ghost animation_2
+      213: -7107560883010941635
+    second: tiny_ghost_animation-Sheet-Sheet_2
+  - first:
+      213: -5436595949587920243
+    second: tiny_ghost_animation-Sheet-Sheet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,67 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tiny ghost animation_0
+      name: tiny_ghost_animation-Sheet-Sheet_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 10
-        width: 18
-        height: 24
+        x: 0
+        y: 0
+        width: 41
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 94b74016591a6fdd0800000000000000
-      internalID: -2452595284106773687
+      spriteID: 033fc931820305da0800000000000000
+      internalID: -5958209358325288144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiny ghost animation_1
+      name: tiny_ghost_animation-Sheet-Sheet_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 10
-        width: 18
-        height: 24
+        x: 82
+        y: 0
+        width: 41
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 614dfcf671d76b880800000000000000
-      internalID: -8595545299176401898
+      spriteID: a56b614f2839bff10800000000000000
+      internalID: 2304597824980301402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tiny ghost animation_2
+      name: tiny_ghost_animation-Sheet-Sheet_2
       rect:
         serializedVersion: 2
-        x: 51
-        y: 10
-        width: 18
-        height: 24
+        x: 164
+        y: 0
+        width: 41
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c46d36461b20ce4e0800000000000000
-      internalID: -1951181577641535924
+      spriteID: d3dcbacc80fdc5d90800000000000000
+      internalID: -7107560883010941635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_ghost_animation-Sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a0c75c9c45d84b0800000000000000
+      internalID: -5436595949587920243
       vertices: []
       indices: 
       edges: []
@@ -188,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4942296453eb6ed478b0fe4fe66315f6
     internalID: 0
     vertices: []
     indices: 
@@ -196,11 +221,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":41.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      tiny ghost animation_0: -2452595284106773687
-      tiny ghost animation_1: -8595545299176401898
-      tiny ghost animation_2: -1951181577641535924
+      tiny_ghost_animation-Sheet-Sheet_0: -5958209358325288144
+      tiny_ghost_animation-Sheet-Sheet_1: 2304597824980301402
+      tiny_ghost_animation-Sheet-Sheet_2: -7107560883010941635
+      tiny_ghost_animation-Sheet-Sheet_3: -5436595949587920243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
