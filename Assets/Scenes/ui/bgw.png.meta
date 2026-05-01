@@ -440,10 +440,10 @@ TextureImporter:
       name: bgw_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 975
-        width: 1024
-        height: 453
+        x: 382
+        y: 709
+        width: 90
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: bgw_1
       rect:
         serializedVersion: 2
-        x: 382
-        y: 1077
-        width: 83
-        height: 84
+        x: 471
+        y: 779
+        width: 11
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: bgw_2
       rect:
         serializedVersion: 2
-        x: 471
-        y: 1149
-        width: 11
-        height: 13
+        x: 591
+        y: 752
+        width: 42
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: bgw_3
       rect:
         serializedVersion: 2
-        x: 593
-        y: 1120
-        width: 40
-        height: 48
+        x: 844
+        y: 623
+        width: 114
+        height: 199
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: bgw_4
       rect:
         serializedVersion: 2
-        x: 342
-        y: 1129
-        width: 10
-        height: 11
+        x: 303
+        y: 740
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,9 +550,9 @@ TextureImporter:
       name: bgw_5
       rect:
         serializedVersion: 2
-        x: 555
-        y: 1135
-        width: 10
+        x: 340
+        y: 761
+        width: 12
         height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: bgw_6
       rect:
         serializedVersion: 2
-        x: 658
-        y: 1111
-        width: 28
-        height: 25
+        x: 551
+        y: 767
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: bgw_7
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1102
-        width: 10
-        height: 11
+        x: 658
+        y: 719
+        width: 37
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: bgw_8
       rect:
         serializedVersion: 2
-        x: 287
-        y: 1104
-        width: 10
-        height: 8
+        x: 737
+        y: 679
+        width: 83
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: bgw_9
       rect:
         serializedVersion: 2
-        x: 307
-        y: 1108
+        x: 262
+        y: 718
         width: 19
-        height: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: bgw_10
       rect:
         serializedVersion: 2
-        x: 351
-        y: 1103
-        width: 12
-        height: 18
+        x: 287
+        y: 736
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: bgw_11
       rect:
         serializedVersion: 2
-        x: 551
-        y: 1095
-        width: 12
-        height: 14
+        x: 351
+        y: 735
+        width: 22
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: bgw_12
       rect:
         serializedVersion: 2
-        x: 196
-        y: 1079
-        width: 17
-        height: 16
+        x: 551
+        y: 727
+        width: 12
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,10 +726,10 @@ TextureImporter:
       name: bgw_13
       rect:
         serializedVersion: 2
-        x: 463
-        y: 998
-        width: 90
-        height: 93
+        x: 151
+        y: 663
+        width: 53
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,10 +748,10 @@ TextureImporter:
       name: bgw_14
       rect:
         serializedVersion: 2
-        x: 579
-        y: 1058
-        width: 26
-        height: 30
+        x: 191
+        y: 693
+        width: 39
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,10 +770,10 @@ TextureImporter:
       name: bgw_15
       rect:
         serializedVersion: 2
-        x: 852
-        y: 1054
-        width: 44
-        height: 48
+        x: 227
+        y: 647
+        width: 46
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -792,10 +792,10 @@ TextureImporter:
       name: bgw_16
       rect:
         serializedVersion: 2
-        x: 152
-        y: 1034
-        width: 42
-        height: 30
+        x: 301
+        y: 687
+        width: 27
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -814,10 +814,10 @@ TextureImporter:
       name: bgw_17
       rect:
         serializedVersion: 2
-        x: 231
-        y: 1027
-        width: 40
-        height: 46
+        x: 347
+        y: 667
+        width: 38
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,10 +836,10 @@ TextureImporter:
       name: bgw_18
       rect:
         serializedVersion: 2
-        x: 301
-        y: 1060
-        width: 19
-        height: 15
+        x: 463
+        y: 627
+        width: 95
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -858,10 +858,10 @@ TextureImporter:
       name: bgw_19
       rect:
         serializedVersion: 2
-        x: 349
-        y: 1047
-        width: 28
-        height: 31
+        x: 575
+        y: 690
+        width: 30
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,9 +881,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 610
-        y: 1058
-        width: 11
-        height: 13
+        y: 647
+        width: 15
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -903,9 +903,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 647
-        y: 1049
+        y: 663
         width: 19
-        height: 16
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -925,9 +925,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 669
-        y: 1043
-        width: 22
-        height: 31
+        y: 675
+        width: 29
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,7 +947,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 839
-        y: 1054
+        y: 686
         width: 14
         height: 12
       alignment: 0
@@ -969,9 +969,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 394
-        y: 1036
-        width: 15
-        height: 15
+        y: 637
+        width: 23
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -991,7 +991,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 735
-        y: 1040
+        y: 672
         width: 13
         height: 16
       alignment: 0
@@ -1013,9 +1013,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 810
-        y: 1028
-        width: 18
-        height: 13
+        y: 654
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,7 +1035,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 855
-        y: 1039
+        y: 671
         width: 9
         height: 10
       alignment: 0
@@ -1057,9 +1057,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 103
-        y: 999
-        width: 25
-        height: 18
+        y: 623
+        width: 33
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,10 +1078,10 @@ TextureImporter:
       name: bgw_29
       rect:
         serializedVersion: 2
-        x: 157
-        y: 997
-        width: 30
-        height: 28
+        x: 155
+        y: 629
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1101,7 +1101,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 277
-        y: 981
+        y: 613
         width: 28
         height: 24
       alignment: 0
@@ -1123,7 +1123,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 334
-        y: 1000
+        y: 632
         width: 26
         height: 26
       alignment: 0
@@ -1144,10 +1144,10 @@ TextureImporter:
       name: bgw_32
       rect:
         serializedVersion: 2
-        x: 450
-        y: 987
-        width: 27
-        height: 30
+        x: 436
+        y: 614
+        width: 44
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1167,7 +1167,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 555
-        y: 995
+        y: 627
         width: 14
         height: 13
       alignment: 0
@@ -1189,9 +1189,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 584
-        y: 1001
-        width: 13
-        height: 12
+        y: 633
+        width: 15
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,10 +1210,10 @@ TextureImporter:
       name: bgw_35
       rect:
         serializedVersion: 2
-        x: 620
-        y: 997
-        width: 13
-        height: 17
+        x: 619
+        y: 611
+        width: 26
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1233,9 +1233,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 653
-        y: 993
-        width: 20
-        height: 21
+        y: 623
+        width: 41
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1254,10 +1254,10 @@ TextureImporter:
       name: bgw_37
       rect:
         serializedVersion: 2
-        x: 741
-        y: 1002
-        width: 23
-        height: 26
+        x: 701
+        y: 608
+        width: 37
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1276,10 +1276,10 @@ TextureImporter:
       name: bgw_38
       rect:
         serializedVersion: 2
-        x: 773
-        y: 991
-        width: 12
-        height: 13
+        x: 741
+        y: 631
+        width: 57
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1298,10 +1298,10 @@ TextureImporter:
       name: bgw_39
       rect:
         serializedVersion: 2
-        x: 839
-        y: 1004
-        width: 8
-        height: 8
+        x: 773
+        y: 623
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1320,10 +1320,10 @@ TextureImporter:
       name: bgw_40
       rect:
         serializedVersion: 2
-        x: 912
-        y: 1000
-        width: 11
-        height: 11
+        x: 839
+        y: 636
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,10 +1342,10 @@ TextureImporter:
       name: bgw_41
       rect:
         serializedVersion: 2
-        x: 208
-        y: 959
-        width: 36
-        height: 42
+        x: 912
+        y: 632
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1364,10 +1364,10 @@ TextureImporter:
       name: bgw_42
       rect:
         serializedVersion: 2
-        x: 396
-        y: 985
-        width: 10
-        height: 13
+        x: 208
+        y: 591
+        width: 41
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1386,9 +1386,9 @@ TextureImporter:
       name: bgw_43
       rect:
         serializedVersion: 2
-        x: 637
-        y: 987
-        width: 19
+        x: 376
+        y: 617
+        width: 30
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1408,10 +1408,10 @@ TextureImporter:
       name: bgw_44
       rect:
         serializedVersion: 2
-        x: 713
-        y: 976
-        width: 25
-        height: 26
+        x: 637
+        y: 619
+        width: 19
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1431,7 +1431,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 823
-        y: 983
+        y: 615
         width: 18
         height: 18
       alignment: 0
@@ -1453,7 +1453,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 316
-        y: 914
+        y: 546
         width: 50
         height: 63
       alignment: 0
@@ -1475,8 +1475,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 392
-        y: 976
-        width: 7
+        y: 608
+        width: 9
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1497,7 +1497,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 871
-        y: 967
+        y: 599
         width: 10
         height: 12
       alignment: 0
@@ -1519,7 +1519,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 928
-        y: 969
+        y: 601
         width: 7
         height: 9
       alignment: 0
@@ -1540,10 +1540,10 @@ TextureImporter:
       name: bgw_50
       rect:
         serializedVersion: 2
-        x: 2
-        y: 8
-        width: 1022
-        height: 953
+        x: 60
+        y: 239
+        width: 428
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,9 +1562,9 @@ TextureImporter:
       name: bgw_51
       rect:
         serializedVersion: 2
-        x: 60
-        y: 607
-        width: 428
+        x: 494
+        y: 239
+        width: 103
         height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1584,10 +1584,10 @@ TextureImporter:
       name: bgw_52
       rect:
         serializedVersion: 2
-        x: 494
-        y: 607
-        width: 103
-        height: 354
+        x: 570
+        y: 29
+        width: 451
+        height: 564
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1607,7 +1607,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 939
-        y: 920
+        y: 552
         width: 19
         height: 33
       alignment: 0
@@ -1629,7 +1629,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 938
-        y: 865
+        y: 497
         width: 16
         height: 15
       alignment: 0
@@ -1651,7 +1651,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 69
-        y: 828
+        y: 460
         width: 17
         height: 16
       alignment: 0
@@ -1673,7 +1673,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 486
-        y: 823
+        y: 455
         width: 12
         height: 25
       alignment: 0
@@ -1695,7 +1695,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 933
-        y: 839
+        y: 471
         width: 24
         height: 22
       alignment: 0
@@ -1717,7 +1717,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 920
-        y: 807
+        y: 439
         width: 12
         height: 14
       alignment: 0
@@ -1739,7 +1739,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 950
-        y: 780
+        y: 412
         width: 27
         height: 36
       alignment: 0
@@ -1761,7 +1761,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 924
-        y: 742
+        y: 374
         width: 22
         height: 27
       alignment: 0
@@ -1783,7 +1783,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 55
-        y: 685
+        y: 317
         width: 41
         height: 42
       alignment: 0
@@ -1805,7 +1805,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 934
-        y: 663
+        y: 295
         width: 25
         height: 47
       alignment: 0
@@ -1827,7 +1827,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 939
-        y: 635
+        y: 267
         width: 13
         height: 14
       alignment: 0
@@ -1849,7 +1849,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 254
-        y: 566
+        y: 198
         width: 27
         height: 24
       alignment: 0
@@ -1871,7 +1871,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 391
-        y: 490
+        y: 122
         width: 106
         height: 103
       alignment: 0
@@ -1893,7 +1893,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 607
-        y: 560
+        y: 192
         width: 28
         height: 30
       alignment: 0
@@ -1915,7 +1915,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 677
-        y: 567
+        y: 199
         width: 24
         height: 21
       alignment: 0
@@ -1937,7 +1937,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 780
-        y: 577
+        y: 209
         width: 22
         height: 24
       alignment: 0
@@ -1959,7 +1959,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 862
-        y: 585
+        y: 217
         width: 11
         height: 12
       alignment: 0
@@ -1981,7 +1981,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 911
-        y: 583
+        y: 215
         width: 10
         height: 12
       alignment: 0
@@ -2003,7 +2003,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 94
-        y: 559
+        y: 191
         width: 17
         height: 13
       alignment: 0
@@ -2025,7 +2025,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 110
-        y: 476
+        y: 108
         width: 50
         height: 93
       alignment: 0
@@ -2047,7 +2047,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 276
-        y: 567
+        y: 199
         width: 13
         height: 10
       alignment: 0
@@ -2069,7 +2069,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 310
-        y: 516
+        y: 148
         width: 48
         height: 55
       alignment: 0
@@ -2091,7 +2091,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 323
-        y: 566
+        y: 198
         width: 7
         height: 8
       alignment: 0
@@ -2113,7 +2113,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 350
-        y: 569
+        y: 201
         width: 26
         height: 11
       alignment: 0
@@ -2135,7 +2135,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 490
-        y: 558
+        y: 190
         width: 18
         height: 20
       alignment: 0
@@ -2157,7 +2157,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 523
-        y: 544
+        y: 176
         width: 27
         height: 36
       alignment: 0
@@ -2179,7 +2179,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 557
-        y: 538
+        y: 170
         width: 24
         height: 31
       alignment: 0
@@ -2201,7 +2201,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 715
-        y: 559
+        y: 191
         width: 12
         height: 11
       alignment: 0
@@ -2223,7 +2223,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 766
-        y: 528
+        y: 160
         width: 41
         height: 46
       alignment: 0
@@ -2245,7 +2245,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 856
-        y: 561
+        y: 193
         width: 10
         height: 11
       alignment: 0
@@ -2267,7 +2267,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 174
-        y: 520
+        y: 152
         width: 25
         height: 45
       alignment: 0
@@ -2289,7 +2289,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 190
-        y: 483
+        y: 115
         width: 88
         height: 70
       alignment: 0
@@ -2311,7 +2311,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 225
-        y: 503
+        y: 135
         width: 19
         height: 20
       alignment: 0
@@ -2333,7 +2333,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 267
-        y: 511
+        y: 143
         width: 13
         height: 13
       alignment: 0
@@ -2355,7 +2355,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 291
-        y: 513
+        y: 145
         width: 13
         height: 12
       alignment: 0
@@ -2377,7 +2377,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 561
-        y: 502
+        y: 134
         width: 27
         height: 21
       alignment: 0
@@ -2399,7 +2399,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 617
-        y: 528
+        y: 160
         width: 13
         height: 10
       alignment: 0
@@ -2421,7 +2421,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 663
-        y: 540
+        y: 172
         width: 13
         height: 13
       alignment: 0
@@ -2443,7 +2443,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 685
-        y: 520
+        y: 152
         width: 8
         height: 10
       alignment: 0
@@ -2465,7 +2465,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 697
-        y: 518
+        y: 150
         width: 20
         height: 24
       alignment: 0
@@ -2487,7 +2487,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 723
-        y: 441
+        y: 73
         width: 83
         height: 88
       alignment: 0
@@ -2509,7 +2509,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 831
-        y: 543
+        y: 175
         width: 28
         height: 23
       alignment: 0
@@ -2531,7 +2531,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 858
-        y: 486
+        y: 118
         width: 39
         height: 46
       alignment: 0
@@ -2553,7 +2553,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 866
-        y: 542
+        y: 174
         width: 15
         height: 16
       alignment: 0
@@ -2575,7 +2575,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 329
-        y: 474
+        y: 106
         width: 31
         height: 40
       alignment: 0
@@ -2597,7 +2597,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 370
-        y: 497
+        y: 129
         width: 30
         height: 17
       alignment: 0
@@ -2619,7 +2619,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 466
-        y: 397
+        y: 29
         width: 85
         height: 112
       alignment: 0
@@ -2641,7 +2641,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 299
-        y: 476
+        y: 108
         width: 13
         height: 13
       alignment: 0
@@ -2662,10 +2662,10 @@ TextureImporter:
       name: bgw_101
       rect:
         serializedVersion: 2
-        x: 2
-        y: 61
-        width: 207
-        height: 409
+        x: 10
+        y: 29
+        width: 145
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2685,7 +2685,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 163
-        y: 443
+        y: 75
         width: 39
         height: 30
       alignment: 0
@@ -2707,7 +2707,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 223
-        y: 447
+        y: 79
         width: 26
         height: 26
       alignment: 0
@@ -2729,7 +2729,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 234
-        y: 392
+        y: 24
         width: 80
         height: 81
       alignment: 0
@@ -2751,9 +2751,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 316
-        y: 267
+        y: 18
         width: 66
-        height: 199
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2773,7 +2773,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 452
-        y: 444
+        y: 76
         width: 29
         height: 29
       alignment: 0
@@ -2795,7 +2795,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 832
-        y: 444
+        y: 76
         width: 18
         height: 13
       alignment: 0
@@ -2817,7 +2817,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 417
-        y: 430
+        y: 62
         width: 9
         height: 8
       alignment: 0

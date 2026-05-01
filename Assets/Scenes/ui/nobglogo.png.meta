@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 00c25069f9b46624c8dc3dfca5973335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8154339430120202789
+    second: nobglogo_0
+  - first:
+      213: -408514477889633862
+    second: nobglogo_1
+  - first:
+      213: -3013920215561867041
+    second: nobglogo_2
+  - first:
+      213: 256717359554851905
+    second: nobglogo_3
+  - first:
+      213: 8497053875017080189
+    second: nobglogo_4
+  - first:
+      213: 4098199519587447437
+    second: nobglogo_5
+  - first:
+      213: -7240168783775198775
+    second: nobglogo_6
+  - first:
+      213: -8063304357704166037
+    second: nobglogo_7
+  - first:
+      213: 3074454567639468267
+    second: nobglogo_8
+  - first:
+      213: 8895292618742658001
+    second: nobglogo_9
+  - first:
+      213: -4382471057726925335
+    second: nobglogo_10
+  - first:
+      213: 5961053629176903367
+    second: nobglogo_11
+  - first:
+      213: 4496578902667052204
+    second: nobglogo_12
+  - first:
+      213: 4968785236169268087
+    second: nobglogo_13
+  - first:
+      213: 5103058172289773679
+    second: nobglogo_14
+  - first:
+      213: 7584767825545989583
+    second: nobglogo_15
+  - first:
+      213: 7781349530477433543
+    second: nobglogo_16
+  - first:
+      213: 2730162599903820673
+    second: nobglogo_17
+  - first:
+      213: 7172375268326998816
+    second: nobglogo_18
+  - first:
+      213: -5978966153362923167
+    second: nobglogo_19
+  - first:
+      213: 2606329723867050396
+    second: nobglogo_20
+  - first:
+      213: 8773949687781423408
+    second: nobglogo_21
+  - first:
+      213: 8687601603839138138
+    second: nobglogo_22
+  - first:
+      213: 4010627470128065752
+    second: nobglogo_23
+  - first:
+      213: -2194614684166641699
+    second: nobglogo_24
+  - first:
+      213: -3759868957775280776
+    second: nobglogo_25
+  - first:
+      213: 8074603654673285744
+    second: nobglogo_26
+  - first:
+      213: 3211224950362738561
+    second: nobglogo_27
+  - first:
+      213: -364439913109303676
+    second: nobglogo_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nobglogo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 97
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522a64612880a2170800000000000000
+      internalID: 8154339430120202789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1507
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c8cb2f3aa45af0800000000000000
+      internalID: -408514477889633862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1525
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f01a48876c26d0800000000000000
+      internalID: -3013920215561867041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1187
+        width: 296
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14471ff041b009300800000000000000
+      internalID: 256717359554851905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1491
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ddfb1ea799be570800000000000000
+      internalID: 8497053875017080189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1068
+        width: 384
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82bfa7ffbabfd830800000000000000
+      internalID: 4098199519587447437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1215
+        width: 341
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11539e9d0c58b90800000000000000
+      internalID: -7240168783775198775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1255
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b651f2b6863691090800000000000000
+      internalID: -8063304357704166037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 743
+        width: 520
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be84a3ed328aaaa20800000000000000
+      internalID: 3074454567639468267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1147
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d37f49e18d627b70800000000000000
+      internalID: 8895292618742658001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_10
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 945
+        width: 227
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e591c5dac55e23c0800000000000000
+      internalID: -4382471057726925335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 945
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6742651bae9b250800000000000000
+      internalID: 5961053629176903367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1032
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca44cf520be076e30800000000000000
+      internalID: 4496578902667052204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 943
+        width: 159
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1317b8dba4f440800000000000000
+      internalID: 4968785236169268087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 801
+        width: 132
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f607c7bde54b1d640800000000000000
+      internalID: 5103058172289773679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 911
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd0b79c622824960800000000000000
+      internalID: 7584767825545989583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 849
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2924dab28ecfb60800000000000000
+      internalID: 7781349530477433543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 755
+        width: 167
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bf25a6b6c73e520800000000000000
+      internalID: 2730162599903820673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 751
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0238d604e45698360800000000000000
+      internalID: 7172375268326998816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 727
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16128b026f1760da0800000000000000
+      internalID: -5978966153362923167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 535
+        width: 683
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9133ae231b8b2420800000000000000
+      internalID: 2606329723867050396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 591
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397c5131c453c970800000000000000
+      internalID: 8773949687781423408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_22
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 582
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5912fa31af809870800000000000000
+      internalID: 8687601603839138138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 926
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc28635f6c98a730800000000000000
+      internalID: 4010627470128065752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 241
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7246382992b81e0800000000000000
+      internalID: -2194614684166641699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_25
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 289
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87549c18a1342dbc0800000000000000
+      internalID: -3759868957775280776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_26
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 271
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0724fda2e31ce0070800000000000000
+      internalID: 8074603654673285744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 294
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f0e3c1410909c20800000000000000
+      internalID: 3211224950362738561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nobglogo_28
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 225
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e452574df31faf0800000000000000
+      internalID: -364439913109303676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nobglogo_0: 8154339430120202789
+      nobglogo_1: -408514477889633862
+      nobglogo_10: -4382471057726925335
+      nobglogo_11: 5961053629176903367
+      nobglogo_12: 4496578902667052204
+      nobglogo_13: 4968785236169268087
+      nobglogo_14: 5103058172289773679
+      nobglogo_15: 7584767825545989583
+      nobglogo_16: 7781349530477433543
+      nobglogo_17: 2730162599903820673
+      nobglogo_18: 7172375268326998816
+      nobglogo_19: -5978966153362923167
+      nobglogo_2: -3013920215561867041
+      nobglogo_20: 2606329723867050396
+      nobglogo_21: 8773949687781423408
+      nobglogo_22: 8687601603839138138
+      nobglogo_23: 4010627470128065752
+      nobglogo_24: -2194614684166641699
+      nobglogo_25: -3759868957775280776
+      nobglogo_26: 8074603654673285744
+      nobglogo_27: 3211224950362738561
+      nobglogo_28: -364439913109303676
+      nobglogo_3: 256717359554851905
+      nobglogo_4: 8497053875017080189
+      nobglogo_5: 4098199519587447437
+      nobglogo_6: -7240168783775198775
+      nobglogo_7: -8063304357704166037
+      nobglogo_8: 3074454567639468267
+      nobglogo_9: 8895292618742658001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
