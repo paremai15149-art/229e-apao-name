@@ -10,7 +10,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     public void LoadGame()
     {
-        SceneManager.LoadScene("maingame"); // หรือชื่อ scene เกมจริง
+        SceneManager.LoadScene("mainGame"); // หรือชื่อ scene เกมจริง
     }
 
     public void ExitGame()
@@ -27,7 +27,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     public void LoadMenu()
     {
         Debug.Log("CLICK MENU");
-        SceneManager.LoadScene("UI_Menu");
+        SceneManager.LoadScene("mainmenu");
     }
 
 }
